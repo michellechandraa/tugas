@@ -1,1 +1,1 @@
-# This is a submission place for Data Mining Exercise ✌️
+# This is a submission place for my Data Mining Exercise ✌️
